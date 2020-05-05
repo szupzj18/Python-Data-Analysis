@@ -7,3 +7,6 @@
 
 LM模型和决策树的小demo in [LM and Decision Tree] 文件夹（包含EXCEL数据和模型结构）  
 
+2020.05.05  
+
+更新了书本上kNN的简单实现（我的版本和教程版本）
