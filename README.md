@@ -9,7 +9,7 @@ demo大部分基于《机器学习实战》这本书
 
 LM模型和决策树的小demo in [LM and Decision Tree] 文件夹（包含EXCEL数据和模型结构）  
 
-kNN也补上了
+kNN也补上了（demo代码未完善）
 
 2020.05.05  
 
