@@ -7,9 +7,9 @@ demo大部分基于《机器学习实战》这本书
 
 目前：
 
-LM模型和决策树的小demo in [LM and Decision Tree] 文件夹（包含EXCEL数据和模型结构）  
+[LM模型和决策树的小demo](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/LM%20and%20DecisionTree/code.ipynb>) in [LM and Decision Tree] 文件夹（包含EXCEL数据和模型结构）  
 
-kNN - demo：海伦的约会 数据+代码+测试 已经实现
+kNN - demo：[海伦的约会](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/kNN%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0.ipynb>) 数据+代码+测试 已经实现
 
 2020.05.05  
 
