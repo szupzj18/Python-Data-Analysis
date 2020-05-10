@@ -24,6 +24,14 @@ demo大部分基于[《机器学习实战》](<https://www.ituring.com.cn/book/1
 
 --------------------------------
 
+ps: 神经网络的模型结构的保存文件 (.keras格式) 推荐使用[Netron](<https://github.com/lutzroeder/netron>)可视化工具
+
+
+
+-------
+
+**update log:**
+
 2020.05.10
 
 更新demo：kNN数字识别代码
