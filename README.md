@@ -20,7 +20,7 @@ demo大部分基于[《机器学习实战》](<https://www.ituring.com.cn/book/1
 
 
 - [x] kNN - demo：[海伦的约会](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/kNN%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0.ipynb>) 数据+代码+测试
-- [x] kNN 手写数字识别（数据+代码）
+- [x] kNN [手写数字识别](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/handwriting%20recognition/%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb>)（数据+代码）
 
 --------------------------------
 
