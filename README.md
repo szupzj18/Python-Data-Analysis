@@ -5,6 +5,15 @@ demo大部分基于《机器学习实战》这本书
 
 --------------------------------------------------------------------
 
+| 算法          |            |      |
+| :------------ | ---------- | ---- |
+| kNN           | k近邻      | ✔    |
+| Decision Tree | 决策树     | ✔    |
+| AdaBoost      |            |      |
+| Navie Bayes   | 朴素贝叶斯 |      |
+| Logistic      | 逻辑回归   |      |
+| SVM           | 支持向量机 |      |
+
 目前：
 
 [LM模型和决策树的小demo](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/LM%20and%20DecisionTree/code.ipynb>) in [LM and Decision Tree] 文件夹（包含EXCEL数据和模型结构）  
@@ -20,7 +29,5 @@ kNN - demo：[海伦的约会](<https://github.com/szupzj18/Python-Data-Analysis
 2020.05.09  
 
 更新demo：海伦的约会 测试代码  
-
-
 
 下一步：kNN 手写数字识别（数据+代码）
