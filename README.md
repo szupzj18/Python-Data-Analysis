@@ -1,5 +1,5 @@
 # Python-Data-Analysis
-一些Python数据分析学习的demo和经验总结    
+一些Python数据分析和机器学习的demo和经验总结    
 
 demo大部分基于《机器学习实战》这本书
 
