@@ -1,7 +1,7 @@
 # Python-Data-Analysis
 一些Python数据分析和机器学习的demo和经验总结    
 
-demo大部分基于《机器学习实战》这本书
+demo大部分基于[《机器学习实战》](<https://www.ituring.com.cn/book/1021>)这本书
 
 --------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ demo大部分基于《机器学习实战》这本书
 
 
 - [x] kNN - demo：[海伦的约会](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/kNN%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0.ipynb>) 数据+代码+测试
-- [ ] kNN 手写数字识别（数据+代码）
+- [x] kNN 手写数字识别（数据+代码）
 
 2020.05.05  
 
