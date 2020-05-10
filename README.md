@@ -5,14 +5,14 @@ demo大部分基于《机器学习实战》这本书
 
 --------------------------------------------------------------------
 
-| 算法          |            |      |
-| :------------ | ---------- | ---- |
-| kNN           | k近邻      | ✔    |
-| Decision Tree | 决策树     | ✔    |
-| AdaBoost      |            |      |
-| Navie Bayes   | 朴素贝叶斯 |      |
-| Logistic      | 逻辑回归   |      |
-| SVM           | 支持向量机 |      |
+| 算法                                                         |            |      |
+| :----------------------------------------------------------- | ---------- | ---- |
+| [kNN](<https://github.com/szupzj18/Python-Data-Analysis/tree/master/kNN>) | k近邻      | ✔    |
+| [Decision Tree](<https://github.com/szupzj18/Python-Data-Analysis/tree/master/LM%20and%20DecisionTree>) | 决策树     | ✔    |
+| AdaBoost                                                     |            |      |
+| Navie Bayes                                                  | 朴素贝叶斯 |      |
+| Logistic                                                     | 逻辑回归   |      |
+| SVM                                                          | 支持向量机 |      |
 
 目前：
 
