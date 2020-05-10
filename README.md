@@ -5,14 +5,14 @@ demo大部分基于《机器学习实战》这本书
 
 --------------------------------------------------------------------
 
-| 算法                                                         |            |      |
-| :----------------------------------------------------------- | ---------- | ---- |
-| [kNN](<https://github.com/szupzj18/Python-Data-Analysis/tree/master/kNN>) | k近邻      | ✔    |
-| [Decision Tree](<https://github.com/szupzj18/Python-Data-Analysis/tree/master/LM%20and%20DecisionTree>) | 决策树     | ✔    |
-| AdaBoost                                                     | 自适应增强 |      |
-| Navie Bayes                                                  | 朴素贝叶斯 |      |
-| Logistic                                                     | 逻辑回归   |      |
-| SVM                                                          | 支持向量机 |      |
+| 算法                                                         |            | demo                                                         |      |
+| :----------------------------------------------------------- | ---------- | ------------------------------------------------------------ | ---- |
+| [kNN](<https://github.com/szupzj18/Python-Data-Analysis/tree/master/kNN>) | k近邻      | [基本实现](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/kNN%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0.ipynb>)\|[海伦的约会](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/%E6%B5%B7%E4%BC%A6%E7%9A%84%E7%BA%A6%E4%BC%9A.ipynb>)\|手写数字识别 | ✔    |
+| [Decision Tree](<https://github.com/szupzj18/Python-Data-Analysis/tree/master/LM%20and%20DecisionTree>) | 决策树     | [基本实现](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/LM%20and%20DecisionTree/code.ipynb>) | ✔    |
+| AdaBoost                                                     | 自适应增强 |                                                              |      |
+| Navie Bayes                                                  | 朴素贝叶斯 |                                                              |      |
+| Logistic                                                     | 逻辑回归   |                                                              |      |
+| SVM                                                          | 支持向量机 |                                                              |      |
 
 目前：
 
