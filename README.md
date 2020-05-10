@@ -9,7 +9,7 @@ demo大部分基于《机器学习实战》这本书
 | :----------------------------------------------------------- | ---------- | ---- |
 | [kNN](<https://github.com/szupzj18/Python-Data-Analysis/tree/master/kNN>) | k近邻      | ✔    |
 | [Decision Tree](<https://github.com/szupzj18/Python-Data-Analysis/tree/master/LM%20and%20DecisionTree>) | 决策树     | ✔    |
-| AdaBoost                                                     |            |      |
+| AdaBoost                                                     | 自适应增强 |      |
 | Navie Bayes                                                  | 朴素贝叶斯 |      |
 | Logistic                                                     | 逻辑回归   |      |
 | SVM                                                          | 支持向量机 |      |
