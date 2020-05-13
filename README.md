@@ -3,7 +3,7 @@
 
 demo大部分基于[《机器学习实战》](<https://www.ituring.com.cn/book/1021>)这本书
 
-![机器学习实战](<https://file.ituring.com.cn/ScreenShow/0100c4b0e732c1a37ef4>)
+![机器学习实战](./pics/book.jpg)
 
 --------------------------------------------------------------------
 
