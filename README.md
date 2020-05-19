@@ -16,7 +16,7 @@ demo大部分基于[《机器学习实战》](<https://www.ituring.com.cn/book/1
 | Logistic                                                     | 逻辑回归   |                                                              |      |
 | SVM                                                          | 支持向量机 |                                                              |      |
 | Python可视化                                                 | 各种画图   | 数据导入\|预处理\|绘图                                       |      |
-| KMeans                                                       | k聚类      | 代码实现\|[航空公司客户价值分析](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/KMeans/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C.ipynb>) |      |
+| KMeans                                                       | k聚类      | 代码实现\|[航空公司客户价值分析（实验）](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/KMeans/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C.ipynb>) |      |
 
 目前：
 
@@ -25,7 +25,7 @@ demo大部分基于[《机器学习实战》](<https://www.ituring.com.cn/book/1
 
 - [x] kNN - demo：[海伦的约会](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/kNN%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0.ipynb>) 数据+代码+测试
 - [x] kNN [手写数字识别](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/handwriting%20recognition/%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb>)（数据+代码）
-- [ ] K聚类 - demo：[航空公司客户价值分析](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C.ipynb>) demo中算法使用sklearn库实现
+- [x] K聚类 - demo：[航空公司客户价值分析](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C.ipynb>) demo中算法使用sklearn库实现
 - [ ] K聚类 - demo：手写代码实现
 - [ ] Python数据可视化：基于[Matplotlib官方网站](<https://matplotlib.org/index.html>)的一些小demo，用于练习Python数据可视化
 
@@ -38,6 +38,10 @@ ps: 神经网络的模型结构的保存文件 (.keras格式) 推荐使用[Netro
 -------
 
 **update log:**
+
+2020.05.19
+
+更新demo：k聚类 客户价值分析demo 实现
 
 2020.05.13
 
