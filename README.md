@@ -16,7 +16,7 @@ demo大部分基于[《机器学习实战》](<https://www.ituring.com.cn/book/1
 | Logistic                                                     | 逻辑回归   |                                                              |      |
 | SVM                                                          | 支持向量机 |                                                              |      |
 | Python可视化                                                 | 各种画图   | 数据导入\|预处理\|绘图                                       |      |
-| KMeans                                                       | k聚类      | 代码实现\|[航空公司客户价值分析](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/kNN/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C.ipynb>) |      |
+| KMeans                                                       | k聚类      | 代码实现\|[航空公司客户价值分析](<https://github.com/szupzj18/Python-Data-Analysis/blob/master/KMeans/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C.ipynb>) |      |
 
 目前：
 
